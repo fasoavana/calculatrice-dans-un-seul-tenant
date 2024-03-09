@@ -1,0 +1,91 @@
+#my-navbar{
+    background: transparent;
+}
+.t1{
+    padding-top: 300px;
+    padding-bottom: 100px;
+    background: url(../img/img/4k-tech-ulcajgzzc25jlrgi.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+.t2{
+    padding-left: 180px;
+}
+.t3{
+    background: rgba(255, 255, 255, 0.589);
+    color: black;
+}
+.t4{
+    background: rgba(255, 255, 255, 0.589);
+    color: black;
+    padding: 30px;
+}
+.t5{
+    background: rgba(255, 0, 0, 0.726);
+    padding: 25px;
+}
+.contenu{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.sec1{
+    padding: 50px;
+}
+.fond1{
+    background: url(../img/260711-plage-43.jpg);
+    background-size: cover;
+    color: white;
+    padding: 80.px;
+}
+.m2{
+    padding: 50px;
+}
+.m3{
+    padding: 50px;
+}
+.btn{
+    color: black;
+}
+.mit{
+    background: url(../img/260711-plage-43.jpg);
+    background-size:100% 100%;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color: white;
+    text-align: center;
+}
+.momo{
+    padding: 50px;
+}
+.zandry1{
+    background-image: url(../img/img/HD-wallpaper-battlefield-game-ea-games-battlefield-4-games-pc-games-xbox-games-ps4-games-pc-games.jpg);
+    background-size: 100% 100%;
+
+}
+.zandry{
+    background-image: url(../img/img/desktop-wallpaper-autumn-landscape-winter-landscape-backgrounds-autumn-3440x1440.jpg);
+    background-size: 100% 100%;
+
+}
+.zoky{
+    background-image: url(../img/img/galactic-night-sky-astronomy-science-combined-generative-ai_188544-9656.jpg);
+    background-size: 100% 100%;
+    
+}
+.mafy{
+ 
+ height: 300px;
+ background-color: #337ab714;
+    
+}
+.ato{
+    background-image: url(../img/cyberpunk-2077-games-ps-games-xbox-games-wallpaper-preview.jpg);
+   background-size: 100% 100%;
+    
+}
+.afo{
+    background-image: url(../img/cyberpunk-2077-games-ps-games-xbox-games-wallpaper-preview.jpg);
+    background-size: 100% 100%;
+   
+}
